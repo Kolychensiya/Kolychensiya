@@ -1,0 +1,18 @@
+{"site_url":"http://localhost:8000",
+"site_title": "fff",
+"description": "fff",
+"keywords": "ff",
+"name": "ffу",
+"tag1":"ff",
+"tag2":"ff",
+"sect1":"ff",
+"sect2":"fff",
+"sect3":"ffо",
+"sect4":"ffг",
+"sect5":"ffкты",
+"telegram":"https://t.me/johndoe",
+"facebook":"ttps://facebook.com/john.doe",
+"vk":"https://vk.com/john_doe",
+"email":"mailto:john_doe@gmail.com",
+"city":"Москва"
+}
